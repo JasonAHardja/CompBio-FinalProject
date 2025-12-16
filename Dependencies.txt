@@ -1,0 +1,24 @@
+This project requires the following Python packages:
+Core
+Python ≥ 3.9
+numpy
+pandas
+scipy
+joblib
+
+Machine Learning:
+scikit-learn
+SVC
+MLPClassifier
+TruncatedSVD
+TF-IDF Vectorizer
+LabelEncoder
+StandardScaler
+Model evaluation metrics
+
+Visualization:
+matplotlib
+seaborn
+
+Graph & Network Analysis:
+networkx
