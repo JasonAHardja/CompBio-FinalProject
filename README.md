@@ -26,7 +26,7 @@ Expected columns in 'DDI_data.csv':
 python3 -m venv venv
 source venv/bin/activate
 
-2.Run the Pipeline
+2. Run the Pipeline
 python drug-prediction.py
 
 The script will:
